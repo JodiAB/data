@@ -26,7 +26,7 @@
         "id":1,
         "heading": "My Resume",
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, nesciunt.",
-        "Button": "Download CV"
+        "button": "Download CV"
     
     }
 
@@ -36,28 +36,56 @@
     ],
     
     "skills":[
-    {
-        "id": 1,
-        "headings": "Web Developer",
-        "icon": ""
-    },
+        {
+            "id": 1,
+            "heading": "My Skills"
+        },
     {
         "id": 2,
-        "headings": "Web Developer",
+        "heading": "HTML",
         "icon": ""
     },
-    
     {
         "id": 3,
-        "headings": "Web Developer",
+        "heading": "CSS",
         "icon": ""
     },
     
     {
         "id": 4,
-        "headings": "Web Developer",
+        "heading": "Javascript",
+        "icon": ""
+    },
+    
+    {
+        "id": 5,
+        "heading": "Bootstrap",
         "icon": ""
     }],
+
+    "Professional Skills":[
+        {
+        "id": 1,
+        "heading": "Professional Skills",
+        "percentage": "90%",
+        "text": "Teamwork"
+    },
+    {
+        "id": 2,
+        "percentage": "70%",
+        "text": "Communication"
+    },
+    {
+        "id": 3,
+        "percentage": "80%",
+        "text": "Problem Solving"
+    },
+    {
+        "id": 4,
+        "percentage": "93%",
+        "text": "Creative"
+    }
+],
     
     "Experience": [{
     
