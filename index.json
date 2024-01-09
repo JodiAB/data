@@ -43,24 +43,29 @@
     {
         "id": 2,
         "heading": "HTML",
-        "icon": ""
+        "subtitle": "Intermediate",
+        "Description": "I develop basic to complex HTML pages for simple styling in CSS and understandable layout."
+  
     },
     {
         "id": 3,
         "heading": "CSS",
-        "icon": ""
+        "subtitle": "Intermediate",
+        "Description": "I love styling HTML tags so that my imagination/vision can come to reality by using animations."
     },
     
     {
         "id": 4,
         "heading": "Javascript",
-        "icon": ""
+        "subtitle": "Beginner",
+        "Description": "Still learning the basics of Javascript but can create basic functionality."
     },
     
     {
         "id": 5,
         "heading": "Bootstrap",
-        "icon": ""
+        "subtitle": "Beginner",
+        "Description": "Still learning the basics of Bootstrap, and the Docs are helping me understand it much more easily."
     }],
 
     "Professional Skills":[
@@ -143,50 +148,77 @@
         
         {
             "id" : 1,
-            "icon" : "",
-            "heading": "",
-            "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui ad quia natus explicabo facere quaerat soluta molestiae quis, ab beatae aliquam. Commodi sint nemo modi autem voluptate laborum accusamus? Dolore illum facilis dicta, vel dolorem dignissimos praesentium error nobis accusamus accusantium quo maiores. "
+            "heading": "Nike Landing Page",
+            "para": "A Nike landing page showcases captivating visuals of new products, with a clean header and prominent product highlights to engage visitors and encourage exploration."
         },
         {
             "id" : 2,
-            "icon" : "",
-            "heading": "",
-            "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui ad quia natus explicabo facere quaerat soluta molestiae quis, ab beatae aliquam. Commodi sint nemo modi autem voluptate laborum accusamus? Dolore illum facilis dicta, vel dolorem dignissimos praesentium error nobis accusamus accusantium quo maiores. "
+            "heading": "React Portfolio",
+            "para": "In a 3D React portfolio, I leverage React to present my skills and projects in an engaging way, incorporating three-dimensional elements and animations for a visually dynamic representation of my work, aiming to demonstrate a modern and interactive approach to web development."
         },
         {
             "id" : 3,
-            "icon" : "",
-            "heading": "",
-            "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui ad quia natus explicabo facere quaerat soluta molestiae quis, ab beatae aliquam. Commodi sint nemo modi autem voluptate laborum accusamus? Dolore illum facilis dicta, vel dolorem dignissimos praesentium error nobis accusamus accusantium quo maiores. "
+            "heading": "RedStore Eccommerce ",
+            "para": "For an amateur eCommerce site, I'm using simple and user-friendly design principles, integrating basic e-commerce functionalities with a focus on ease of use. It's a straightforward approach tailored for a smooth shopping experience for customers who are just getting started. "
         },
         {
             "id" : 4,
-            "icon" : "",
-            "heading": "",
-            "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui ad quia natus explicabo facere quaerat soluta molestiae quis, ab beatae aliquam. Commodi sint nemo modi autem voluptate laborum accusamus? Dolore illum facilis dicta, vel dolorem dignissimos praesentium error nobis accusamus accusantium quo maiores. "
+            "heading": "Quiz Game",
+            "para": "In my amateur quiz game project, I've implemented a user-friendly interface with basic quiz functionalities, keeping the design simple and accessible for an enjoyable experience. It's designed for those new to quiz games, ensuring straightforward navigation and engagement. "
         },
         {
             "id" : 5,
-            "icon" : "",
-            "heading": "",
-            "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui ad quia natus explicabo facere quaerat soluta molestiae quis, ab beatae aliquam. Commodi sint nemo modi autem voluptate laborum accusamus? Dolore illum facilis dicta, vel dolorem dignissimos praesentium error nobis accusamus accusantium quo maiores. "
+            "heading": "Random Password Generator",
+            "para": "For my amateur Random Password Generator project, I've created a straightforward tool using basic web technologies, allowing users to generate secure passwords easily. The design prioritizes simplicity and functionality for a user-friendly experience, especially catering to those unfamiliar with complex password tools. "
         },
         {
             "id" : 6,
-            "icon" : "",
-            "heading": "",
-            "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui ad quia natus explicabo facere quaerat soluta molestiae quis, ab beatae aliquam. Commodi sint nemo modi autem voluptate laborum accusamus? Dolore illum facilis dicta, vel dolorem dignissimos praesentium error nobis accusamus accusantium quo maiores. "
+            "heading": "QR Generator",
+            "para": " In my amateur QR Generator project, I've developed a simple tool using basic web technologies, enabling users to generate QR codes effortlessly. The focus is on ease of use, making it accessible for individuals exploring QR code generation without extensive technical knowledge. "
         }
     
     ],
     "Testimonials" : [
         {
             "id" : 1,
-            "icon" : "",
             "heading": "Testimonials",
             "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui ad quia natus explicabo facere quaerat soluta molestiae quis, ab beatae aliquam. Commodi sint nemo modi autem voluptate laborum accusamus? Dolore illum facilis dicta, vel dolorem dignissimos praesentium error nobis accusamus accusantium quo maiores. "
         }
     ],
+
+    "Testo":[{
+        "id": 1,
+        "name": "Niyaaz",
+        "des": "Jodi is outstanding in his work. His ability to explain complex concepts with clarity and patience has been invaluable to our class. Jodi's passion for coding is infectious, making him an asset to our learning community."
+
+    },
+    {
+        "id": 2,
+        "name": "Joal",
+        "des": "Jodi's proficiency in various programming languages and problem-solving skills are truly impressive. Jodi's collaborative nature and willingness to share knowledge have made helped me understand more. He's a valuable asset to any development team."
+    },
+    {
+        "id": 3,
+        "name": "Mathew",
+        "des": "Since meeting Jodi I've come to appreciate all of his skills. Jodi displays excellent leadership qualities, the ability to adapt to his environment and overcome and excel with excellence in any challenge he faces. Jodi displays excellent technical skills and is a master behind the keyboard, combined with his leadership skills. Chad is an invaluable asset on any team, without a doubt."
+    },
+    {
+        "id": 4,
+        "name": "Danyaal",
+        "des": "Jodi is a dedicated person and does his best on each and every project that gets handed to him. He has an amazing personality and conducts himself very professionally."
+    },
+    {
+        "id": 5,
+        "name": "Ni-shaat",
+        "des": "Jodi is a pleasure to work with. He is dedicated, hardworking and a natural leader. His professionalism is unparelled and his work ethic is second to none."
+    },
+    {
+        "id": 6,
+        "name": "Chad",
+        "des": "Jodi's web development skills exceeded my expectations. His technical prowess and dedication to creating a user-friendly and visually appealing website were evident throughout the entire process. I highly recommend Jodi for anyone seeking a talented and reliable web developer."
+    }
+
+],
     
     "Contact" : [
     
