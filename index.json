@@ -25,7 +25,8 @@
     
         "id":1,
         "heading": "My Resume",
-        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, nesciunt."
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, nesciunt.",
+        "Button": "Download CV"
     
     }
 
