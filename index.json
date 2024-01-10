@@ -65,7 +65,7 @@
         "id": 5,
         "heading": "Bootstrap",
         "subtitle": "Beginner",
-        "Description": "Still learning the basics of Bootstrap, and the Docs are helping me understand it much more easily."
+        "Description": "Learning Bootstrap basics, leveraging Docs for enhanced understanding."
     }],
 
     "Professional Skills":[
@@ -149,32 +149,38 @@
         {
             "id" : 1,
             "heading": "Nike Landing Page",
-            "para": "A Nike landing page showcases captivating visuals of new products, with a clean header and prominent product highlights to engage visitors and encourage exploration."
+            "para": "A Nike landing page showcases captivating visuals of new products, with a clean header and prominent product highlights to engage visitors and encourage exploration.",
+            "img": "https://freeimage.host/i/J74tsu1"
         },
         {
             "id" : 2,
             "heading": "React Portfolio",
-            "para": "In a 3D React portfolio, I leverage React to present my skills and projects in an engaging way, incorporating three-dimensional elements and animations for a visually dynamic representation of my work, aiming to demonstrate a modern and interactive approach to web development."
+            "para": "In a 3D React portfolio, I leverage React to present my skills and projects in an engaging way, incorporating three-dimensional elements and animations for a visually dynamic representation of my work, aiming to demonstrate a modern and interactive approach to web development.",
+            "img": ""
         },
         {
             "id" : 3,
             "heading": "RedStore Eccommerce ",
-            "para": "For an amateur eCommerce site, I'm using simple and user-friendly design principles, integrating basic e-commerce functionalities with a focus on ease of use. It's a straightforward approach tailored for a smooth shopping experience for customers who are just getting started. "
+            "para": "For an amateur eCommerce site, I'm using simple and user-friendly design principles, integrating basic e-commerce functionalities with a focus on ease of use. It's a straightforward approach tailored for a smooth shopping experience for customers who are just getting started. ",
+            "img": ""
         },
         {
             "id" : 4,
             "heading": "Quiz Game",
-            "para": "In my amateur quiz game project, I've implemented a user-friendly interface with basic quiz functionalities, keeping the design simple and accessible for an enjoyable experience. It's designed for those new to quiz games, ensuring straightforward navigation and engagement. "
+            "para": "In my amateur quiz game project, I've implemented a user-friendly interface with basic quiz functionalities, keeping the design simple and accessible for an enjoyable experience. It's designed for those new to quiz games, ensuring straightforward navigation and engagement. ",
+            "img": ""
         },
         {
             "id" : 5,
             "heading": "Random Password Generator",
-            "para": "For my amateur Random Password Generator project, I've created a straightforward tool using basic web technologies, allowing users to generate secure passwords easily. The design prioritizes simplicity and functionality for a user-friendly experience, especially catering to those unfamiliar with complex password tools. "
+            "para": "For my amateur Random Password Generator project, I've created a straightforward tool using basic web technologies, allowing users to generate secure passwords easily. The design prioritizes simplicity and functionality for a user-friendly experience, especially catering to those unfamiliar with complex password tools. ",
+            "img": ""
         },
         {
             "id" : 6,
             "heading": "QR Generator",
-            "para": " In my amateur QR Generator project, I've developed a simple tool using basic web technologies, enabling users to generate QR codes effortlessly. The focus is on ease of use, making it accessible for individuals exploring QR code generation without extensive technical knowledge. "
+            "para": " In my amateur QR Generator project, I've developed a simple tool using basic web technologies, enabling users to generate QR codes effortlessly. The focus is on ease of use, making it accessible for individuals exploring QR code generation without extensive technical knowledge. ",
+            "img": ""
         }
     
     ],
@@ -189,33 +195,40 @@
     "Feedback":[{
         "id": 1,
         "name": "Niyaaz",
-        "des": "Jodi is outstanding in his work. His ability to explain complex concepts with clarity and patience has been invaluable to our class. Jodi's passion for coding is infectious, making him an asset to our learning community."
+        "des": "Jodi is outstanding in his work. His ability to explain complex concepts with clarity and patience has been invaluable to our class. Jodi's passion for coding is infectious, making him an asset to our learning community.",
+        "img": ""
+
 
     },
     {
         "id": 2,
         "name": "Joel",
-        "des": "Jodi's proficiency in various programming languages and problem-solving skills are truly impressive. Jodi's collaborative nature and willingness to share knowledge have made helped me understand more."
+        "des": "Jodi's proficiency in various programming languages and problem-solving skills are truly impressive. Jodi's collaborative nature and willingness to share knowledge have made helped me understand more.",
+        "img": ""
     },
     {
         "id": 3,
         "name": "Jodie",
-        "des": "Since meeting Jodi I've come to appreciate all of his skills. Jodi displays excellent leadership qualities, the ability to adapt to his environment and overcome and excel with excellence in any challenge he faces."
+        "des": "Since meeting Jodi I've come to appreciate all of his skills. Jodi displays excellent leadership qualities, the ability to adapt to his environment and overcome and excel with excellence in any challenge he faces.",
+        "img": ""
     },
     {
         "id": 4,
         "name": "Danyaal",
-        "des": "Jodi is a dedicated person and does his best on each and every project that gets handed to him. He has an amazing personality and conducts himself very professionally."
+        "des": "Jodi is a dedicated person and does his best on each and every project that gets handed to him. He has an amazing personality and conducts himself very professionally.",
+        "img": ""
     },
     {
         "id": 5,
         "name": "Ni-shaat",
-        "des": "Jodi is a pleasure to work with. He is dedicated, hardworking and a natural leader. His professionalism is unparelled and his work ethic is second to none."
+        "des": "Jodi is a pleasure to work with. He is dedicated, hardworking and a natural leader. His professionalism is unparelled and his work ethic is second to none.",
+        "img": ""
     },
     {
         "id": 6,
         "name": "Chad",
-        "des": "Jodi's web development skills exceeded my expectations. His technical prowess and dedication to creating a user-friendly and visually appealing website were evident throughout the entire process."
+        "des": "Jodi's web development skills exceeded my expectations. His technical prowess and dedication to creating a user-friendly and visually appealing website were evident throughout the entire process.",
+        "img": ""
     }
 
 ],
