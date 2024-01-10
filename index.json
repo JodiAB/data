@@ -112,10 +112,18 @@
     },
     {
         "id": 2,
-        "heading": "Junior Network Technician Volenteer",
-        "date": "2017 - 2019",
-        "subHeading": "Cape Peninsula University of Technology: CPUT",
-        "point1": "Troubleshoot network issues and assist in resolving connectivity problems."
+        "heading": "Driver for Shout Music",
+        "date": "2019-2020",
+        "subHeading": "Shout Music",
+        "point1": "Safely transport music equipment to various upscale venues and event locations."
+    },
+
+    {
+        "id": 3,
+        "heading": "Lvl 1Support Engineer at Securicom",
+        "date": "2022-2023",
+        "subHeading": "Securicom",
+        "point1": "Provide front-line technical support to end-users or clients via various communication channels (e.g., phone, email, chat)."
     }
     ],
     
