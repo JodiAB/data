@@ -164,31 +164,31 @@
             "id" : 2,
             "heading": "React Portfolio",
             "para": "In a 3D React portfolio, I leverage React to present my skills and projects in an engaging way, incorporating three-dimensional elements and animations for a visually dynamic representation of my work, aiming to demonstrate a modern and interactive approach to web development.",
-            "img": ""
+            "img": "https://iili.io/J7Dv37I.md.png" 
         },
         {
             "id" : 3,
             "heading": "RedStore Eccommerce ",
             "para": "For an amateur eCommerce site, I'm using simple and user-friendly design principles, integrating basic e-commerce functionalities with a focus on ease of use. It's a straightforward approach tailored for a smooth shopping experience for customers who are just getting started. ",
-            "img": ""
+            "img": "https://iili.io/J7Dvx14.md.png" 
         },
         {
             "id" : 4,
             "heading": "Quiz Game",
             "para": "In my amateur quiz game project, I've implemented a user-friendly interface with basic quiz functionalities, keeping the design simple and accessible for an enjoyable experience. It's designed for those new to quiz games, ensuring straightforward navigation and engagement. ",
-            "img": ""
+            "img": "https://iili.io/J7DvRp9.md.png" 
         },
         {
             "id" : 5,
             "heading": "Random Password Generator",
             "para": "For my amateur Random Password Generator project, I've created a straightforward tool using basic web technologies, allowing users to generate secure passwords easily. The design prioritizes simplicity and functionality for a user-friendly experience, especially catering to those unfamiliar with complex password tools. ",
-            "img": ""
+            "img": "https://iili.io/J7DvYhu.md.png"
         },
         {
             "id" : 6,
             "heading": "QR Generator",
             "para": " In my amateur QR Generator project, I've developed a simple tool using basic web technologies, enabling users to generate QR codes effortlessly. The focus is on ease of use, making it accessible for individuals exploring QR code generation without extensive technical knowledge. ",
-            "img": ""
+            "img": "https://iili.io/J7D8RFR.md.png" 
         }
     
     ],
