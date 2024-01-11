@@ -204,15 +204,14 @@
         "id": 1,
         "name": "Niyaaz",
         "des": "Jodi is outstanding in his work. His ability to explain complex concepts with clarity and patience has been invaluable to our class. Jodi's passion for coding is infectious, making him an asset to our learning community.",
-        "img": ""
-
+        "img": "https://iili.io/J7D4aQ1.png" 
 
     },
     {
         "id": 2,
         "name": "Joel",
         "des": "Jodi's proficiency in various programming languages and problem-solving skills are truly impressive. Jodi's collaborative nature and willingness to share knowledge have made helped me understand more.",
-        "img": ""
+        "img": "https://iili.io/J7D4xEu.png" 
     },
     {
         "id": 3,
@@ -224,7 +223,7 @@
         "id": 4,
         "name": "Danyaal",
         "des": "Jodi is a dedicated person and does his best on each and every project that gets handed to him. He has an amazing personality and conducts himself very professionally.",
-        "img": ""
+        "img": "https://iili.io/J7D6KFa.png"
     },
     {
         "id": 5,
@@ -236,7 +235,7 @@
         "id": 6,
         "name": "Chad",
         "des": "Jodi's web development skills exceeded my expectations. His technical prowess and dedication to creating a user-friendly and visually appealing website were evident throughout the entire process.",
-        "img": ""
+        "img": "https://iili.io/J7DrTbI.png" 
     }
 
 ],
