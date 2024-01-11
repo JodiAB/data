@@ -182,7 +182,7 @@
             "id" : 5,
             "heading": "Random Password Generator",
             "para": "For my amateur Random Password Generator project, I've created a straightforward tool using basic web technologies, allowing users to generate secure passwords easily. The design prioritizes simplicity and functionality for a user-friendly experience, especially catering to those unfamiliar with complex password tools. ",
-            "img": "https://iili.io/J7DvYhu.md.png"
+            "img":"https://iili.io/J7DvYhu.md.png" 
         },
         {
             "id" : 6,
