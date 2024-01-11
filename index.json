@@ -272,7 +272,7 @@
         "id": 3,
         "name": "Jodie",
         "des": "Since meeting Jodi I've come to appreciate all of his skills. Jodi displays excellent leadership qualities, the ability to adapt to his environment and overcome and excel with excellence in any challenge he faces.",
-        "img": ""
+        "img": "https://iili.io/J7mcbcJ.png" 
     },
     {
         "id": 4,
@@ -284,13 +284,18 @@
         "id": 5,
         "name": "Ni-shaat",
         "des": "Jodi is a pleasure to work with. He is dedicated, hardworking and a natural leader. His professionalism is unparelled and his work ethic is second to none.",
-        "img": ""
+        "img": "https://iili.io/J7m0oga.md.jpg"
     },
     {
         "id": 6,
         "name": "Chad",
         "des": "Jodi's web development skills exceeded my expectations. His technical prowess and dedication to creating a user-friendly and visually appealing website were evident throughout the entire process.",
         "img": "https://iili.io/J7DrTbI.png" 
+    },
+    {
+        "id": 7,
+        "img": "https://iili.io/J7mFmzB.md.jpg"
+    
     }
 
 ],
@@ -311,7 +316,7 @@
     
         {
             "id": 1,
-            "heading": "Copyright © 2024 All Rights Reserved by Jodi Abrahams"
+            "heading": "&copy; 2024 Jodi Abrahams Portfolio. All rights reserved."
            
         }
     ]
