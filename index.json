@@ -4,7 +4,7 @@
             "id": 1,
             "heading": "Hi, Im Jodi Abrahams",
             "sub-heading": "I'm a web developer with extensive experience for over 5 years. My expertise is to design and create websites, graphic design and much more...  ",
-            "image": "https://iili.io/JYJJHf1.md.png"
+            "img":"https://iili.io/JYJJHf1.md.png" 
         }
     ],
     "About":[
@@ -13,7 +13,8 @@
     
             "id": 1,
             "heading" : "About Me",
-            "para": "Im a aspiring developer that is keen on learning everything there is about web development, as well as software development. My passion is technology and im up for the challenge of being a forever student in the broad scale of Information Technology.",
+            "para": "
+            I am an aspiring developer with a fervent enthusiasm for acquiring comprehensive knowledge in both web development and software development. My deep-seated passion lies in the realm of technology, and I eagerly embrace the challenge of perpetually evolving as a dedicated student within the expansive field of Information Technology.",
             "img": "https://iili.io/JYHyiL7.md.jpg" 
     
     
