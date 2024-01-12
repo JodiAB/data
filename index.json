@@ -25,9 +25,16 @@
     
         "id":1,
         "heading": "My Resume",
-        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, nesciunt.",
-        "button": "Download CV"
-    
+        "text": "Explore my work to witness the impact of my contributions.",
+        "button": "Download CV",
+        "birthday": "Birthday : 10 April 1998",
+        "age": "Age : 25",
+        "email": "Email : jodiabrahams9@gmail.com",
+        "certificate": "Certificate : A+",
+        "phone": "Phone : +27 78 209 6121",
+        "city": "City : Cape Town, South Africa",
+        "freelancer": "Freelance : Availible"
+        
     }
 
     
