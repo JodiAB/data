@@ -72,18 +72,9 @@
         "heading": "Bootstrap",
       
         "Description": "Learning Bootstrap basics, leveraging Docs for enhanced understanding."
-    },
+    }
 
-    {
-        "id": 6,
-        "heading": "Vue",
-        "Description": "Learning Bootstrap basics, leveraging Docs for enhanced understanding."
-    },
-    {
-        "id": 7,
-        "heading": "MySQL",
-        "Description": "Learning Bootstrap basics, leveraging Docs for enhanced understanding."
-    }],
+   ],
 
     "Professional Skills":[
         {
@@ -172,6 +163,16 @@
     "id": 8,
     "heading": "Bootstrap",
     "subtitle": "Beginner",
+    "Description": "Learning Bootstrap basics, leveraging Docs for enhanced understanding."
+},
+{
+    "id": 13,
+    "heading": "Vue",
+    "Description": "Learning Bootstrap basics, leveraging Docs for enhanced understanding."
+},
+{
+    "id": 14,
+    "heading": "MySQL",
     "Description": "Learning Bootstrap basics, leveraging Docs for enhanced understanding."
 },
 
