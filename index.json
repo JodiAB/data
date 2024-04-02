@@ -49,28 +49,39 @@
     {
         "id": 2,
         "heading": "HTML",
-        "subtitle": "Intermediate",
+     
         "Description": "I develop basic to complex HTML pages for simple styling in CSS and understandable layout."
   
     },
     {
         "id": 3,
         "heading": "CSS",
-        "subtitle": "Intermediate",
+    
         "Description": "I love styling HTML tags so that my imagination/vision can come to reality by using animations."
     },
     
     {
         "id": 4,
         "heading": "Javascript",
-        "subtitle": "Beginner",
+      
         "Description": "Still learning the basics of Javascript but can create basic functionality."
     },
     
     {
         "id": 5,
         "heading": "Bootstrap",
-        "subtitle": "Beginner",
+      
+        "Description": "Learning Bootstrap basics, leveraging Docs for enhanced understanding."
+    },
+
+    {
+        "id": 6,
+        "heading": "Vue",
+        "Description": "Learning Bootstrap basics, leveraging Docs for enhanced understanding."
+    },
+    {
+        "id": 7,
+        "heading": "MySQL",
         "Description": "Learning Bootstrap basics, leveraging Docs for enhanced understanding."
     }],
 
@@ -163,6 +174,7 @@
     "subtitle": "Beginner",
     "Description": "Learning Bootstrap basics, leveraging Docs for enhanced understanding."
 },
+
 
 
     {
@@ -290,13 +302,13 @@
         "id": 5,
         "name": "Ni-shaat",
         "des": "Jodi is a pleasure to work with. He is dedicated, hardworking and a natural leader. His professionalism is unparelled and his work ethic is second to none.",
-        "img": "https://iili.io/J7m0oga.md.jpg"
+        "img": "https://files.slack.com/files-pri/T02LW4RMXJQ-F06T1URRPNC/img-20240328-wa0290.jpg"
     },
     {
         "id": 6,
         "name": "Chad",
         "des": "Jodi's web development skills exceeded my expectations. His technical prowess and dedication to creating a user-friendly and visually appealing website were evident throughout the entire process.",
-        "img": "https://iili.io/J7DrTbI.png" 
+        "img": "https://iili.io/J74V1s4.md.jpg" 
     },
     {
         "id": 7,
